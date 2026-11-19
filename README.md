@@ -40,3 +40,4 @@ ChatGPT Permalink
 https://chatgpt.com/share/6afe7603-46dc-83ea-af1b-ff12072aa5d0
 
 Presentation Slides
+https://canva.link/6bltf12h2p7wnqn 

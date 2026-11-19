@@ -1,0 +1,5 @@
+/bin/bench_*
+/data/numbers_*.txt
+/results/*.csv
+/results/*.png
+/.venv/
